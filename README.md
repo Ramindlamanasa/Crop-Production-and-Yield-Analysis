@@ -1,5 +1,3 @@
-<img width="1106" height="747" alt="Screenshot 2026-10-16 150048" src="https://github.com/user-attachments/assets/d3848cde-f1ee-416c-b240-8e33f1fb3c4f" />
-<img width="1106" height="747" alt="Screenshot 2026-10-16 150048" src="https://github.com/user-attachments/assets/00332db1-3079-4e8f-92a9-468221cd1756" />
 <img width="1106" height="747" alt="Screenshot 2026-10-16 150048" src="https://github.com/user-attachments/assets/a58c6d09-f258-4e68-b560-d4c1c320676d" />
 # Crop Production and Yield Data Analytics
 
